@@ -12,13 +12,14 @@ redirect_from:
 ***
 
 # Education
+* Ph.D in US, Pennsylvania State University (PennState), 2024-present
 * M.S. in US, University of California San Diego (UCSD), 2021-2023
 * B.S. in China, Beijing University of Technology (BJUT), 2016-2020
 
 ***
 
 # Work experience
-* Spring 2023 - Now: Full-Time Research Assistant
+* Spring 2023 - Summer 2024: Full-Time Research Assistant
   * University of California San Diego (UCSD)
   * Xiaolong Wang's Lab
   * Duties included:
@@ -30,8 +31,7 @@ redirect_from:
       + Employed SolidWorks to assemble the robotic hand components and exported them into '.urdf' file format
       + Modified the descriptions of collision meshes within the '.urdf' file, reconstructed collision models using basic geometric shapes in Blender, and exported them in direct coding description, or '.obj' and '.glb' file formats
       + Altered the descriptions of visual meshes within the '.urdf' file, using Blender to adjust their surface material properties for a more realistic representation in a virtual environment
-      + Tested the modified `.urdf' files using different simulators (IsaacGym, SAPIEN, PyBullet) to assess their visual effects and collision states
-      + _to be continued_
+      + Tested the modified `.urdf' files using different simulators (IsaacGym, SAPIEN, PyBullet) to assess their visual effects and collision states      
   * Supervisor: Professor Xiaolong Wang
  
 * Spring 2022 - Summer 2023: Part-Time Research Assistant
