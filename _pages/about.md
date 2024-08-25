@@ -30,4 +30,4 @@ Throughout my academic journey, I have developed a strong passion for research i
 I invite you to explore my personal webpage to learn more about my educational journey, research projects, and academic achievements. Please feel free to reach out to me with any inquiries or exciting collaboration opportunities.
 
 
-[Email](mailto:c2jia@ucsd.edu)
+[Email](mailto:cvj5425@psu.edu)
