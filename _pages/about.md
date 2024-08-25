@@ -12,9 +12,9 @@ redirect_from:
 
 I have completed my Bachelor's degree in *Measurement and Control Technique and Equipment* from the **Beijing University of Technology (BJUT)**. Building upon my undergraduate education, I pursued a Master's degree in *Mechanical and Aerospace Engineering* at the **University of California San Diego (UCSD)**. My Master's degree journey involved intensive thesis writing, conducted under the exceptional guidance of Professor [Michael T. Tolley](https://jacobsschool.ucsd.edu/node/3561) in the renowned [Bioinspired Robotics and Design Lab](https://sites.google.com/eng.ucsd.edu/bioinspired/).
 
-Currently, I am privileged to work as a Research Assistant in Professor [Xiaolong Wang's Lab](https://xiaolonw.github.io/group.html) at the **University of California San Diego (UCSD)**. Under the guidance of Professor Wang, I actively contribute to cutting-edge research projects around the directions of Computer Vision, Machine Learning, and Robotics, collaborating with a team of talented researchers. 
+After completing my Master’s degree, I joined Professor [Xiaolong Wang's Lab](https://xiaolonw.github.io/group.html) at the **University of California San Diego (UCSD)** as a Research Assistant. In this role, I have been deeply involved in pioneering research projects at the intersection of Computer Vision, Machine Learning, and Robotics, collaborating closely with a team of exceptional researchers under the guidance of Professor Wang.
 
-You can find my CV here: [Chengzhe Jia's Curriculum Vitae](../files/Chengzhe_Jia_Resume.pdf).
+Starting in the Fall 2024, I will be pursuing a Ph.D. at **Pennsylvania State University**, where I will be conducting research under the supervision of Professor [Xiaogang Hu](https://hhd.psu.edu/contact/xiaogang-hu).
 
 ***
 
@@ -22,7 +22,7 @@ You can find my CV here: [Chengzhe Jia's Curriculum Vitae](../files/Chengzhe_Jia
 
 Throughout my academic journey, I have developed a strong passion for research in the field of Robotics. My current areas of expertise and interest encompass:
 
-* Soft Robotics, Haptic Devices, Surgical Robots, Bioinspired Robotics, Soft Sensors, Exoskeleton, Robotic Design, Robotic Manipulation, Sim2real Learning Transfer. 
+* Haptic Devices, Surgical Robots, Soft Robotics, Soft Sensors, Exoskeleton, Human-machine Interaction, Robotic Design, Robotic Manipulation. 
 
 ***
 # Contact information
