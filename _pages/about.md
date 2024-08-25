@@ -14,7 +14,7 @@ I have completed my Bachelor's degree in *Measurement and Control Technique and 
 
 After completing my Master’s degree, I joined Professor [Xiaolong Wang's Lab](https://xiaolonw.github.io/group.html) at the **University of California San Diego (UCSD)** as a Research Assistant. In this role, I have been deeply involved in pioneering research projects at the intersection of Computer Vision, Machine Learning, and Robotics, collaborating closely with a team of exceptional researchers under the guidance of Professor Wang.
 
-Starting in the Fall 2024, I will be pursuing a Ph.D. at **Pennsylvania State University**, where I will be conducting research under the supervision of Professor [Xiaogang Hu](https://hhd.psu.edu/contact/xiaogang-hu).
+Starting in the Fall 2024, I will be pursuing a Ph.D. at **Pennsylvania State University**, where I will be conducting research under the supervision of Professor [Xiaogang Hu](https://hhd.psu.edu/contact/xiaogang-hu), collaborating with members of the [Neuromechanics Lab](https://sites.psu.edu/nml1/).
 
 ***
 
